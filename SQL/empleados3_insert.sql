@@ -1,12 +1,3 @@
-create table empleados (
-	id INT,
-	nombre VARCHAR(50),
-	apellido VARCHAR(50),
-	correo VARCHAR(50),
-	genero VARCHAR(50),
-	celular VARCHAR(50),
-	pais VARCHAR(50)
-);
 insert into empleados (id, nombre, apellido, correo, genero, celular, pais) values (1, 'Louisa', 'Mabbitt', 'lmabbitt0@businesswire.com', 'Genderfluid', '649-359-3620', 'China');
 insert into empleados (id, nombre, apellido, correo, genero, celular, pais) values (2, 'Gigi', 'Gaspard', 'ggaspard1@mtv.com', 'Non-binary', '463-698-9812', 'Indonesia');
 insert into empleados (id, nombre, apellido, correo, genero, celular, pais) values (3, 'Stanford', 'Izatson', 'sizatson2@clickbank.net', 'Genderfluid', '503-498-5845', 'Portugal');
