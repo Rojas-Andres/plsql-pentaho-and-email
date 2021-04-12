@@ -1,4 +1,6 @@
-
+drop table empleados 
+drop table ventas 
+drop table fechas 
 
 CREATE TABLE public.empleados (
 	id int4 NULL,
